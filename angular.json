@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "basicos2angular"
+  "defaultProject": "basicos2angular",
+  "cli": {
+    "analytics": "05adffca-6bf6-4fcb-a5ea-5b223db970b0"
+  }
 }
